@@ -21,6 +21,4 @@ int main(){
     Solution s;
     cout<<s.closetTarget(words,target,startIndex);
     return 0;
-
-
 }
