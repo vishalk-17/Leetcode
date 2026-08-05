@@ -52,6 +52,7 @@ int main() {
     vector<int> arr = {3, 1, 4, 2};
 
     cout << getMinCost(arr) << endl;   // Output: 3
+    
 
     return 0;
 }
