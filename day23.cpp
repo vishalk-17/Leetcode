@@ -1,3 +1,5 @@
+// leet code 3039 solution in c++
+
 class Solution {
 public:
     vector<int> resultArray(vector<int>& nums) {
