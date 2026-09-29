@@ -1,5 +1,5 @@
 /*
-
+tc = o(m+n)
 2267. Check if There Is a Valid Parentheses String Path
 
 A parentheses string is a non-empty string consisting only of '(' and ')'. It is valid if any of the following conditions is true:
