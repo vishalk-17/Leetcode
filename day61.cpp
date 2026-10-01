@@ -8,7 +8,7 @@ public:
         int depth = 0;
 
         for (char c : seq) {
-            if (c == '(') {
+            if (c == '('){
                 depth++;
                 ans.push_back(depth % 2);
             } 
