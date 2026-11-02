@@ -2,7 +2,7 @@
 
 // class Solution {
 // public:
-//     int minMoves2(vector<int>& nums) {
+//     int minMoves2(vector<int>& nums) {//o(n^2)
 //     long long int minn=INT_MAX,sum=0,n=nums.size();
 //     for(int i=0;i<n;i++){
 //         for(int j=0;j<n;j++){
